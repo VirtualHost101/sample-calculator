@@ -1,6 +1,6 @@
-package com.ravi.cal.Calculator;
+package com.satya.cal.Calculator;
 
-import com.ravi.cal.RaviCalculator.Calculator;
+import com.satya.cal.SatyaCalculator.Calculator;
 import org.junit.Test;
 import static org.junit.Assert.assertEquals;
 

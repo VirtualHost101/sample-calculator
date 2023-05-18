@@ -1,4 +1,4 @@
-package com.ravi.cal.RaviCalculator;
+package com.satya.cal.SatyaCalculator;
 
 public class Calculator {
 
